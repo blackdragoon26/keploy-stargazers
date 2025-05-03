@@ -1,6 +1,5 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 
-const GITHUB_GRAPHQL_URL = "https://api.github.com/graphql";
 const GITHUB_REST_URL = "https://api.github.com";
 
 let currentTokenIndex = 0;
